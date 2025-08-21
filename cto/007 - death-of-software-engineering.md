@@ -95,7 +95,6 @@ people to maintain it?
 
 ## 8. Side note
 
-Note:
 I’ve used Java and C++ as examples because they’ve been my instruments for decades. But they are not alone in the
 “foundations and sturdy walls” category. .NET is a clear contender too: engineered for durability and high performance,
 though for me it has always carried the baggage of being tied to Microsoft’s historically closed-source, vendor-driven
@@ -108,6 +107,8 @@ matters more than fancy abstractions.
 
 Rust pushes memory safety and zero-cost abstractions further than C++ ever did, and could well become the next great
 systems language if its learning curve and tooling mature.
+
+---
 
 All of these languages share one thing: they aim to produce long-lived, efficient, and maintainable systems — the
 opposite of the disposable scripting culture that celebrates rapid hacks and reinvention.
