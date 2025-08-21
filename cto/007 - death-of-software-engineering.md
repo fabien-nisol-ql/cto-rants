@@ -45,7 +45,7 @@ We buy electronics designed for replacement, not repair.
 
 We favor immediate gratification over sustained value.
 
-Software is just the latest casualty of this throwaway culture.
+**Software is just the latest casualty of this throwaway culture.**`
 
 ## 4. The Shrinking Pool of Real Engineers
 
@@ -92,5 +92,24 @@ Throwaway code → Throwaway systems → Throwaway institutions.
 
 What happens when the banks, grids, hospitals, and governments that rely on engineered software can no longer find
 people to maintain it?
+
+## 8. Side note
+
+Note:
+I’ve used Java and C++ as examples because they’ve been my instruments for decades. But they are not alone in the
+“foundations and sturdy walls” category. .NET is a clear contender too: engineered for durability and high performance,
+though for me it has always carried the baggage of being tied to Microsoft’s historically closed-source, vendor-driven
+vision.
+
+You could also add Go and Rust to this list.
+
+Go is opinionated, simple, and efficient — perfect for infrastructure and networking foundations where concurrency
+matters more than fancy abstractions.
+
+Rust pushes memory safety and zero-cost abstractions further than C++ ever did, and could well become the next great
+systems language if its learning curve and tooling mature.
+
+All of these languages share one thing: they aim to produce long-lived, efficient, and maintainable systems — the
+opposite of the disposable scripting culture that celebrates rapid hacks and reinvention.
 
 Or worse: when the next generation never learns how to engineer, only how to assemble?
